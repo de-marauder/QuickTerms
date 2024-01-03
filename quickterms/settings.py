@@ -30,6 +30,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = os.getenv('SECRET_KEY')
 HOST = os.getenv('HOST')
+DB_NAME = os.getenv('DB_NAME')
 
 # SECURITY WARNING: don't run with debug turned on in production!
 # DEBUG = True
@@ -95,7 +96,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
 
-        'NAME': 'quickterms',
+        'NAME': DB_NAME,
         'USER': os.getenv('DB_USER'),
         'PASSWORD': os.getenv('DB_PASSWORD'),
         'HOST': HOST,
