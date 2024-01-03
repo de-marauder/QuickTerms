@@ -369,15 +369,15 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/zuri-training/Proj-T_C_Gen-Team-74.svg?style=for-the-badge
-[contributors-url]: https://github.com/zuri-training/Proj-T_C_Gen-Team-74/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/zuri-training/Proj-T_C_Gen-Team-74.svg?style=for-the-badge
-[forks-url]: https://github.com/zuri-training/Proj-T_C_Gen-Team-74/network/members
-[stars-shield]: https://img.shields.io/github/stars/zuri-training/Proj-T_C_Gen-Team-74.svg?style=for-the-badge
-[stars-url]: https://github.com/zuri-training/Proj-T_C_Gen-Team-74/stargazers
-[issues-shield]: https://img.shields.io/github/issues/zuri-training/Proj-T_C_Gen-Team-74.svg?style=for-the-badge
-[issues-url]: https://github.com/zuri-training/Proj-T_C_Gen-Team-74/issues
-[license-shield]: https://img.shields.io/github/license/zuri-training/Proj-T_C_Gen-Team-74.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/de-marauder/quickterms.svg?style=for-the-badge
+[contributors-url]: https://github.com/de-marauder/quickterms/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/de-marauder/quickterms.svg?style=for-the-badge
+[forks-url]: https://github.com/de-marauder/quickterms/network/members
+[stars-shield]: https://img.shields.io/github/stars/de-marauder/quickterms.svg?style=for-the-badge
+[stars-url]: https://github.com/de-marauder/quickterms/stargazers
+[issues-shield]: https://img.shields.io/github/issues/de-marauder/quickterms.svg?style=for-the-badge
+[issues-url]: https://github.com/de-marauder/quickterms/issues
+[license-shield]: https://img.shields.io/github/license/de-marauder/quickterms.svg?style=for-the-badge
 [license-url]: https://github.com/zuri-training/Proj-T_C_Gen-Team-74/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/obiajulu-ezike
